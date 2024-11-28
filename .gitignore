@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+env/
+
+# Rust
+target/
+*.rs.bk
+
+# Misc
+.DS_Store
